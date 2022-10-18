@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ComponenteMusica
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ interface\ ComponenteMusica\ aqui.\r\n\ \r\n\ @author\ (seu\ nome\ aqui)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ data\ aqui)\r\n
+comment1.params=newSongComponent
+comment1.target=void\ add(ComponenteMusica)
+comment1.text=\r\n\ Exemplo\ de\ um\ cabe\u00E7alho\ de\ m\u00E9todo\ -\ substitua\ este\ coment\u00E1rio\ pelo\ seu\r\n\ \r\n\ @param\ \ y\ \ \ \ exemplo\ de\ um\ par\u00E2metro\ de\ m\u00E9todo\r\n\ @return\ \ \ \ \ \ \ \ o\ resultado\ produzido\ pelo\ sampleMethod\ \r\n
+comment2.params=newSongComponent
+comment2.target=void\ remove(ComponenteMusica)
+comment3.params=indice
+comment3.target=ComponenteMusica\ getComponente(int)
+comment4.params=
+comment4.target=java.lang.String\ getNomeMusica()
+comment5.params=
+comment5.target=java.lang.String\ getNomeBanda()
+comment6.params=
+comment6.target=java.lang.String\ getAnoLancamento()
+comment7.params=
+comment7.target=void\ exibeInformacoesMusica()
+numComments=8
