@@ -1,12 +1,14 @@
 ----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
+Este repositório contém o padrão de projeto composição (ou COMPOSITE)
 ------------------------------------------------------------------------
 
-TÍTULO DO PROJETO:
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
-COMO INICIAR O PROJETO:
-AUTORES:
-INSTRUÇÕES PARA O USUÁRIO:
+--criar chave pública e privada (jamais revelar sua chave privada)
+git init
+git remote add origin git@github.com:janiorosa/composite.git
+
+git config --global user.email "janio.r.silva@gmail.com"
+git config --global user.name "janiorosa"
+git add --all
+git commit -am "Padrão de Projeto COMPOSITE!"
+
+git push -u origin master
