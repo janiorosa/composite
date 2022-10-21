@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=GeradorTeste
-comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ GeradorTeste\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
-comment1.params=
-comment1.target=GeradorTeste()
-comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ GeradorTeste\r\n
-comment2.params=args
-comment2.target=void\ main(java.lang.String[])
-numComments=3
